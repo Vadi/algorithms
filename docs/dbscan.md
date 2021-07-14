@@ -94,7 +94,7 @@ DBSCAN visits each point of the database, possibly multiple times (e.g., as cand
 
 | | Language | Link |
 |:-: | :-: | :-: |
-| <img src="https://cdn.abranhe.com/projects/algorithms/logos/python.svg" width="30px"> | Python | [dbscan.py](https://github.com/AllAlgorithms/python/blob/master/artificial-intelligence/dbscan.py) |
+| <img src="https://cdn.abranhe.com/projects/algorithms/logos/python.svg" width="30px"> | Python | [dbscan.py](https://github.com/AllAlgorithms/python/blob/master/algorithms/artificial-intelligence/dbscan.py) |
 
 
 ## Helpful Links
